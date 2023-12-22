@@ -78,7 +78,7 @@ public class BBPWall implements BBPPiece {
 
     }
 
-    public HashMap calMats(){
-        
+    public HashMap calMats(int amount){
+
     }
 }
